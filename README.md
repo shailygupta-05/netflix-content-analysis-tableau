@@ -1,4 +1,4 @@
-#  NETFLIX CONTENT ANALYSIS DASHBOARD | TABLEAU PROJECT
+#  NETFLIX CONTENT ANALYSIS DASHBOARD | TABLEAU 
 
 ##  Project Overview
 
@@ -25,7 +25,7 @@ Key fields used in this project:
 - `duration`
 ---
 ##  Dashboard Overview
-
+![image alt](https://github.com/shailygupta-05/netflix-content-analysis-tableau/blob/7a04c9269e39bb1a6ffba8e11194823281654302/image/Untitled.png)
 The one-page Tableau dashboard includes the following visualizations:
 - 1 Movies vs TV Shows Distribution  - Displays the percentage split between Movies and TV Shows available on Netflix.
 - 2️ Content by Country  - A map visualization showing global distribution of Netflix content.
